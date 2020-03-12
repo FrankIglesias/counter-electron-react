@@ -1,0 +1,21 @@
+body {
+  position: relative;
+  color: white;
+  height: 100vh;
+  background-color: #232c39;
+  font-family: Arial, Helvetica, Helvetica Neue, serif;
+  overflow-y: hidden;
+}
+
+.counter {
+  width: 20px;
+  height: 20px;
+  color: white;
+  font-size: 18px;
+  line-height: 20px;
+  text-transform: capitalize;
+  background: black;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 2px;
+}
